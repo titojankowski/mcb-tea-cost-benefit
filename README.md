@@ -4,11 +4,11 @@ Marine Cloud Brightening: Cost, Benefit, and Planetary-Scale Assessment.
 
 A bottom-up techno-economic assessment (TEA) of marine cloud brightening in a single Excel workbook. It uses the best available academic sources for inputs and connects them into one end-to-end assessment, then works through different delivery mechanisms: a dedicated vessel, piggybacking on a cargo ship, fixed platforms, and stationary vessels. The foundation is the numbers from Daniel Harrison's prototype on the Great Barrier Reef.
 
-**Workbook:** `MCB TEA and Cost Benefit.xlsx`, last updated 11/18/2026 (draft: global benefit numbers may change once the eligible-particle cutoff is settled)
+**Workbook:** `MCB TEA and Cost Benefit.xlsx`, last updated 11/24/2026 (draft: global benefit numbers may change once the eligible-particle cutoff is settled)
 
 ## How the workbook is organized
 
-Start on the `Overview` tab. The workbook has two parts.
+Start on the `Overview` tab, then `Summary`: cost per tonne, benefit-cost by what is protected, and the cost of 1 K of global cooling for a year under each climate model, all linked live to the tabs below. The workbook has two parts.
 
 **Particle cost model (tabs 1-4): what it costs to produce and spray particles**
 
